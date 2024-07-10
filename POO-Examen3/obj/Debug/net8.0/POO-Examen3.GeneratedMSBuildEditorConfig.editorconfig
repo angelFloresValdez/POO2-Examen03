@@ -1,0 +1,135 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = POO_Examen3
+build_property.RootNamespace = POO_Examen3
+build_property.ProjectDir = C:\Users\Angel Flores\Desktop\Examen 3erParcial AFV\POO2-Examen03\POO-Examen3\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Angel Flores\Desktop\Examen 3erParcial AFV\POO2-Examen03\POO-Examen3
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/Category/CategoryAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/Category/CategoryDeleted.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlEZWxldGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/Category/CategoryEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/Category/CategoryList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/Kind/KindAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2luZFxLaW5kQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/Kind/KindDeleted.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2luZFxLaW5kRGVsZXRlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/Kind/KindEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2luZFxLaW5kRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/Kind/KindList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2luZFxLaW5kTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/Rol/RolAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXFJvbEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/Rol/RolDeleted.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXFJvbERlbGV0ZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/Rol/RolEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXFJvbEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/Rol/RolList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXFJvbExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/Shared/_LinksLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MaW5rc0xvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/Toy/ToyAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG95XFRveUFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/Toy/ToyDeleted.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG95XFRveURlbGV0ZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/Toy/ToyEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG95XFRveUVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/Toy/ToyList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG95XFRveUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/User/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/User/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/User/Registry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZWdpc3RyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/User/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVc2VyTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/User/_layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxfbGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Angel Flores/Desktop/Examen 3erParcial AFV/POO2-Examen03/POO-Examen3/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-f9eojgnb9y

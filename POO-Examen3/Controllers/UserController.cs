@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using POO_Examen3.Models;
+using PruebaEntityFrameworkCore.Services;
 
 namespace POO_Examen3.Controllers
 {
@@ -187,6 +188,40 @@ namespace POO_Examen3.Controllers
 
             return View(modelo);
         }
+        [HttpPost]
+        public  async Task<IActionResult> HacerAdmin(string email)
+        {
+            var usuario = await _context.Users
+                .FirstOrDefaultAsync(u => u.Email == email);
+
+            if (usuario is null)
+            {
+                return NotFound();
+            }
+
+            await _userManager.AddToRoleAsync(usuario, MyConstants.RolAdmin);
+
+            return RedirectToAction("UserList",
+                routeValues: new { confirmed = "Rol asignado correctamente a " + email, remove = ""  });
+        }
+
+        [HttpPost]
+      
+        public async Task<IActionResult> RemoverAdmin(string email)
+        {
+            var usuario = await _context.Users
+                .FirstOrDefaultAsync(u => u.Email == email);
+
+            if (usuario is null)
+            {
+                return NotFound();
+            }
+
+            await _userManager.RemoveFromRoleAsync(usuario, MyConstants.RolAdmin);
+
+            return RedirectToAction("UserList",
+                routeValues: new { confirmed = "", remove = "Rol removido correctamente a " + email });
+        }
 
     }
 }

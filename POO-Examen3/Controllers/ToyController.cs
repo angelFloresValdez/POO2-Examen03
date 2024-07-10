@@ -23,7 +23,8 @@ namespace POO_Examen3.Controllers
             {
                 Id = model.Id,
                 Name = model.Name,
-                Description = model.Description
+                Description = model.Description,
+                CategoriaName=model.Name,
             }).ToList();
 
             return View(list);
@@ -46,6 +47,7 @@ namespace POO_Examen3.Controllers
             entity.Id = new Guid();
             entity.Name = model.Name;
             entity.Description = model.Description;
+            entity.CategoriaId = model.CategoriaId;
 
             this._context.Toys.Add(entity);
             this._context.SaveChanges();

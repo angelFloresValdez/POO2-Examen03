@@ -15,6 +15,7 @@
             <th scope="col">#</th>
             <th scope="col">Nombre</th>
             <th scope="col">Descripción</th>
+            <th scope="col">Categoria</th>
             <th scope="col">Acciones</th>
         </tr>
     </thead>
@@ -29,6 +30,7 @@
                 </th>
                 <td>@p.Name</td>
                 <td>@p.Description</td>
+                <td>@p.CategoriaName</td>
                 <td>
                     <a class="btn btn-outline-info" asp-action="ToyEdit" asp-controller="Toy" asp-route-id="@p.Id">Editar</a>
                     <a class="btn btn-outline-danger" asp-action="ToyDeleted" asp-controller="Toy" asp-route-id="@p.Id">Borrar</a>

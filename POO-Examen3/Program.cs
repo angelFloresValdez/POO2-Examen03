@@ -19,6 +19,8 @@ builder.Services.AddControllersWithViews(
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+ builder.Services.AddDbContext<ApplicationDbContext>(opciones
+  => opciones.UseSqlServer("name=Examenafv"));
 
 
 builder.Services.AddDbContext<ApplicationDbContext>(opciones 
